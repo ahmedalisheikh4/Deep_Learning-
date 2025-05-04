@@ -10,7 +10,7 @@ To develop an accurate and efficient system for classifying fresh vs rotten prod
 
 - **Shayan Haider** - 21K-3211  
 - **Ahmed Ali**     - 21K-3212  
-- **Taha Hassan**   - 21K-4680  
+- **Taha Hassan**   - 21K-4680 
 
 ---
 
