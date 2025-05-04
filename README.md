@@ -92,7 +92,7 @@ To develop an accurate and efficient system for classifying fresh vs rotten prod
 
 ## 📁 Repository Structure
 
-├── ViT_model.ipynb # ViT implementation (PyTorch)
-├── DLP_proj.ipynb # Custom CNN (TensorFlow/Keras)
-├── Report.docx # Detailed project report
+├── ViT_model.ipynb # ViT implementation (PyTorch)<br>
+├── DLP_proj.ipynb # Custom CNN (TensorFlow/Keras)<br>
+├── Report.docx # Detailed project report<br>
 ├── README.md # Project overview (you are here)
